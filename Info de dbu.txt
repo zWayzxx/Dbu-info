@@ -1,0 +1,814 @@
+Jugador: Anoonymouuss
+  Objeto: PlayerScripts | Tipo: PlayerScripts
+  Objeto: PlayerGui | Tipo: PlayerGui
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Hair14 | Tipo: Model
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+Jugador: jaaaaaayzy
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Hair19 | Tipo: Model
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+Jugador: Carlos_NKS
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Hair2 SSJ | Tipo: Model
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: HalloweenCFrame | Tipo: CFrameValue
+  Parte del personaje: Energy Volley | Tipo: Tool
+Jugador: retil_2423
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+    Sub-objeto dentro de Status: Meteor Crash
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Hair2 SSJ2 | Tipo: Model
+  Parte del personaje: Energy Volley | Tipo: Tool
+Jugador: ToniyMamalon
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: Hair2 | Tipo: Model
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+Jugador: ivoorkusro
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: BeamBruh
+  Objeto: StarterGear | Tipo: StarterGear
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Hair2 SSJ2 | Tipo: Model
+Jugador: castrillo141
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: SSJ4 | Tipo: Shirt
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: Hair1 SSJ4 | Tipo: Model
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Energy Volley | Tipo: Tool
+Jugador: Kazinn092
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+    Sub-objeto dentro de Status: Attacking
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Hair3 | Tipo: Model
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Shirt | Tipo: Shirt
+Jugador: mac286z
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Hair17 | Tipo: Model
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+Jugador: AdrielXD98
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Hair2 SSJ2 | Tipo: Model
+Jugador: kinatsu0214sp
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+    Sub-objeto dentro de Status: Attacking
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Hair1 | Tipo: Model
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+Jugador: pedrolool101
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+    Sub-objeto dentro de Status: Attacking
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Hair2 | Tipo: Model
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: Shirt | Tipo: Shirt
+  Parte del personaje: Pants | Tipo: Pants
+Jugador: XxJUANCA52xX
+  Objeto: StarterGear | Tipo: StarterGear
+  Objeto: Backpack | Tipo: Backpack
+  Carpeta encontrada: Status
+    Sub-objeto dentro de Status: LastPunch
+    Sub-objeto dentro de Status: ForceFly
+    Sub-objeto dentro de Status: Fast
+    Sub-objeto dentro de Status: LastCharge
+    Sub-objeto dentro de Status: LastKi
+    Sub-objeto dentro de Status: lbc
+    Sub-objeto dentro de Status: lbf
+    Sub-objeto dentro de Status: ld
+    Sub-objeto dentro de Status: lbv
+    Sub-objeto dentro de Status: BCT
+    Sub-objeto dentro de Status: Transformation
+    Sub-objeto dentro de Status: SelectedTransformation
+    Sub-objeto dentro de Status: c
+    Sub-objeto dentro de Status: LastQ
+    Sub-objeto dentro de Status: DodgeChance
+    Sub-objeto dentro de Status: C1
+    Sub-objeto dentro de Status: Susp
+    Sub-objeto dentro de Status: Counter
+    Sub-objeto dentro de Status: pos
+    Sub-objeto dentro de Status: FusionTarget
+    Sub-objeto dentro de Status: Fused
+    Sub-objeto dentro de Status: CombatTime
+    Sub-objeto dentro de Status: Clashed
+    Sub-objeto dentro de Status: Blocking
+    Sub-objeto dentro de Status: Blocks
+    Sub-objeto dentro de Status: Mult
+  Parte del personaje: Humanoid | Tipo: Humanoid
+  Parte del personaje: Body Colors | Tipo: BodyColors
+  Parte del personaje: CustomizationData | Tipo: Folder
+  Parte del personaje: Effects | Tipo: Folder
+  Parte del personaje: Stats | Tipo: Folder
+  Parte del personaje: AnimatorApe | Tipo: LocalScript
+  Parte del personaje: CamShake | Tipo: LocalScript
+  Parte del personaje: FastFly | Tipo: LocalScript
+  Parte del personaje: Flight | Tipo: LocalScript
+  Parte del personaje: OozaruWarn | Tipo: LocalScript
+  Parte del personaje: RecieveMessage | Tipo: LocalScript
+  Parte del personaje: Sound | Tipo: LocalScript
+  Parte del personaje: Health | Tipo: Script
+  Parte del personaje: Animate | Tipo: LocalScript
+  Parte del personaje: Hair2 | Tipo: Model
+  Parte del personaje: LeftLowerLeg | Tipo: MeshPart
+  Parte del personaje: LeftFoot | Tipo: MeshPart
+  Parte del personaje: UpperTorso | Tipo: MeshPart
+  Parte del personaje: LeftUpperArm | Tipo: MeshPart
+  Parte del personaje: LeftUpperLeg | Tipo: MeshPart
+  Parte del personaje: RightFoot | Tipo: MeshPart
+  Parte del personaje: LeftLowerArm | Tipo: MeshPart
+  Parte del personaje: RightUpperArm | Tipo: MeshPart
+  Parte del personaje: LowerTorso | Tipo: MeshPart
+  Parte del personaje: RightLowerLeg | Tipo: MeshPart
+  Parte del personaje: LeftHand | Tipo: MeshPart
+  Parte del personaje: RightLowerArm | Tipo: MeshPart
+  Parte del personaje: RightHand | Tipo: MeshPart
+  Parte del personaje: RightUpperLeg | Tipo: MeshPart
+  Parte del personaje: Head | Tipo: Part
+  Parte del personaje: HumanoidRootPart | Tipo: Part
+  Parte del personaje: Pants | Tipo: Pants
+  Parte del personaje: Shirt | Tipo: Shirt
